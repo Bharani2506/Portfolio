@@ -1,0 +1,4 @@
+git add {index.html},
+git commit -am 'added {index.html}' 
+git push heroku master.
+
