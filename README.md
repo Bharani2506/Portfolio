@@ -1,3 +1,3 @@
 # Portfolio
-Porfolio website on myself
+Check on me!
 link:https://portfolio-bharanidharan.herokuapp.com/
