@@ -1,3 +1,2 @@
 # Portfolio
-Check on me!
-link:https://portfolio-bharanidharan.herokuapp.com/
+Check on me!:https://portfolio-bharanidharan.herokuapp.com/
